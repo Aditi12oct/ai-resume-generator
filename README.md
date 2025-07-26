@@ -18,4 +18,4 @@ Just fill in your details — name, skills, experience, and job role — and the
 
 A perfect solution for job seekers who want to save time and still make a great impression.
 
-🙌 Special thanks to Gaurav Singh and IBM for their support and guidance throughout this project!
+🙌 Special thanks to Gaurav Singh sir and IBM for their support and guidance throughout this project!
